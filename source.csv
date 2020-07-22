@@ -1,0 +1,4 @@
+OPERATOR ID;PASSWORD;PROFILE;HARDCOPY LOG;RUNINITIALCOMMAND;Takeover session;
+1234;asdf;pro01;copy1;run1;take1;
+5678;ghjkl;pro02;copy2;run2;take2;
+9102;qwer;pro03;copy3;run3;take3;
